@@ -3,7 +3,5 @@
   "cdn": "https://detour-cdn.gumlet.io/",
   "front": "https://detour.cundinamarca.gov.co/home",
   "media": "https://storage.googleapis.com/detour_media/",
-  // Este visor PDF se encuentra en un bucket diferente, tener en cuenta que se aloja
-  // en el bucket detour_static_dev
   "visor_pdf": "https://storage.googleapis.com/detour_static_dev/visor_pdf/index.html"
 }
