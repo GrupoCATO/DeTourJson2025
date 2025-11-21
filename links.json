@@ -3,5 +3,5 @@
   "cdn": "https://detour-cdn.gumlet.io/",
   "front": "https://detour.cundinamarca.gov.co/home",
   "media": "https://storage.googleapis.com/detour_media/",
-  "visor_pdf": "https://storage.googleapis.com/detour_static/visor_pdf_2/visor_pdf/index.html"
+  "visor_pdf": "https://detour-static.nyc3.cdn.digitaloceanspaces.com/visor_pdf/index.html"
 }
