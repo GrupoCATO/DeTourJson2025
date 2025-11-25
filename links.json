@@ -1,6 +1,6 @@
 {
   "backend": "https://detourpanel.cundinamarca.gov.co/",
-  "cdn": "https://detour-cdn.gumlet.io/",
+  "cdn": "https://detourcdn.gumlet.io/",
   "front": "https://detour.cundinamarca.gov.co/home",
   "media": "https://nyc3.digitaloceanspaces.com/detour-media/prod/media/",
   "visor_pdf": "https://detour-static.nyc3.cdn.digitaloceanspaces.com/visor_pdf/index.html"
